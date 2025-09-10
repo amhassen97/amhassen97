@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,jquery,express,astro,vite,vitest,jest" />
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,bruno" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,grafana,nginx,bash,powershell,linux,ubuntu,githubactions" />
   <img src="https://skillicons.dev/icons?i=r,latex" />
 </p>
