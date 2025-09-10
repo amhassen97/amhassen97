@@ -13,8 +13,11 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,mongodb,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,nextjs,jquery,express,astro,vite,vitest,jest" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,bruno" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,argo,azure,grafana,nginx,bash,powerhshell" />
+  <img src="https://skillicons.dev/icons?i=r,latex,argo,azure,grafana,nginx,bash,powerhshell,linux,ubuntu,githubactions" />
 </p>
 
 <hr>
@@ -28,17 +31,3 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=amhassen97&theme=transparent&count_private=true&border_radius=10&locale=en" alt="amhassen97's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=amhassen97&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="amhassen97's Most Used Languages" />
 </div>
-
-<hr>
-
-## 🐍 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amhassen97/amhassen97/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amhassen97/amhassen97/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/amhassen97/amhassen97/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<hr>
